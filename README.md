@@ -95,7 +95,7 @@ Pricing is based on scope, not hours. You get one number upfront — no hidden f
 
 ## Referral Program
 
-Know someone who needs a software engineer? Refer them and **earn 15% commission** on the deal value — in crypto or by wire transfer. No cap, no expiry, no approval process.
+Know someone who needs a software engineer? Refer them and **earn 15% commission** on the deal value — in crypto or by wire transfer. 
 
 [Learn more →](https://mazithesage.com/referrals)
 
