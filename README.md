@@ -1,14 +1,16 @@
 # Mazi — Software Engineer
 
-Full-Stack · SaaS · Web3 · Available for freelance projects
+Full-Stack · SaaS · Web3 · Open to freelance & long-term engagements
 
 [Portfolio](https://mazithesage.com) · [Referral Program](https://mazithesage.com/referrals) · [X](https://x.com/mazithesage) · [Instagram](https://instagram.com/mazithesage)
 
 ---
 
-I build products that scale — SaaS platforms, Web3 applications, enterprise dashboards, and custom full-stack applications. Every project is scoped with a fixed-price proposal, built in sprints, and delivered with clear documentation.
+I turn business problems into scalable software — SaaS platforms, Web3 applications, enterprise dashboards, and custom full-stack applications. Every project is scoped with a fixed-price proposal, built in structured sprints, and shipped with clean documentation.
 
-**Available for freelance projects.** [Book a call →](https://mazithesage.com)
+Pricing is based on scope, not hours. You get one number upfront — no hidden fees, no change-order surprises.
+
+**[Discuss your project →](https://mazithesage.com)**
 
 ---
 
@@ -17,8 +19,8 @@ I build products that scale — SaaS platforms, Web3 applications, enterprise da
 - **SaaS Products** — End-to-end platform development, auth, billing, dashboards
 - **Web3 / Smart Contracts** — Solidity, on-chain logic, DeFi interfaces
 - **Full-Stack Applications** — React, Next.js, Node.js, PostgreSQL
-- **MVPs** — Fast, clean, production-ready in weeks not months
-- **Enterprise Solutions** — Scalable architecture for complex business logic
+- **MVPs** — Fast, clean, production-ready — scope defines the timeline
+- **Enterprise Solutions** — Scalable architecture built for complex business logic
 - **API Design & Integration** — REST, GraphQL, third-party services
 - **Mobile Apps** — Cross-platform development
 
@@ -95,7 +97,7 @@ I build products that scale — SaaS platforms, Web3 applications, enterprise da
 
 Know someone who needs a software engineer? Refer them and **earn 15% commission** on the deal value — in crypto or by wire transfer. No cap, no expiry, no approval process.
 
-[Learn more about the referral program →](https://mazithesage.com/referrals)
+[Learn more →](https://mazithesage.com/referrals)
 
 ---
 
