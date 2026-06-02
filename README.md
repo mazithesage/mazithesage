@@ -1,6 +1,6 @@
 # Mazi — Software Engineer
 
-Full-Stack · SaaS · Web3 · Open to freelance & long-term engagements
+Full-Stack · SaaS · Web3 · Open to freelance & long-term collaboration
 
 [Portfolio](https://mazithesage.com) · [Referral Program](https://mazithesage.com/referrals) · [X](https://x.com/mazithesage) · [Instagram](https://instagram.com/mazithesage)
 
