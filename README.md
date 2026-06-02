@@ -8,7 +8,7 @@ Full-Stack · SaaS · Web3 · Available for projects
 
 I build products that scale — SaaS platforms, Web3 applications, enterprise dashboards, and custom full-stack applications. Every project is scoped with a fixed-price proposal, built in sprints, and delivered with clear documentation.
 
-**Apply to Work With Me.** [Book a call →](https://mazithesage.com)
+**Let's talk about your project.** [Book a call →](https://mazithesage.com)
 
 ---
 
