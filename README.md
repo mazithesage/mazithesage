@@ -1,6 +1,6 @@
 # Mazi — Software Engineer
 
-Full-Stack · SaaS · Web3 · Available for projects
+Full-Stack · SaaS · Web3 · Available for freelance projects
 
 [Portfolio](https://mazithesage.com) · [Referral Program](https://mazithesage.com/referrals) · [X](https://x.com/mazithesage) · [Instagram](https://instagram.com/mazithesage)
 
@@ -8,7 +8,7 @@ Full-Stack · SaaS · Web3 · Available for projects
 
 I build products that scale — SaaS platforms, Web3 applications, enterprise dashboards, and custom full-stack applications. Every project is scoped with a fixed-price proposal, built in sprints, and delivered with clear documentation.
 
-**Let's talk about your project.** [Book a call →](https://mazithesage.com)
+**Available for freelance projects.** [Book a call →](https://mazithesage.com)
 
 ---
 
